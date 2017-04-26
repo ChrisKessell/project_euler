@@ -1,1 +1,4 @@
-# project_euler
+# From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/javascript-basics)
+## Project Euler
+### Description:
+*Start thinking about how to use code to solve more logical problems. As much as web development is an expression of creativity, it's also based in problem solving (and job interviewers certainly know that) so you'll want to shake the rust off that part of your brain. [Project Euler](https://projecteuler.net) is a series of programming challenges that are best solved by using the power of computers (since many of them require you to perform simple mathematical operations on a very large scale). Some of the later problems require so much repetition and computing power that you would need to find a more elegant way of solving it than the immediately obvious "brute force" solution. We'll just go through the first one now, it's all we need at this point.*
